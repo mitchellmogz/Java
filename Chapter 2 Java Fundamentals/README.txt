@@ -56,4 +56,5 @@ Write a program that asks for information and outputs a story
 Number 18 - Stock Transaction Program
 Write a program that displays information about stocks and if it was positve outcome or negative
 
-Test
+Test - Fast Food
+Write a program that displays the amount of purchase of fast food items
