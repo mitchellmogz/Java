@@ -1,5 +1,6 @@
 Car - Number 2
 Write a program that holds int yearModel, String make, int speed. Included Constructor, Accessor, accelerate and break method
+(fields) (constructor)
 
 Personal Information - Number 3
 Create three instances which hold name, address, age, and phone number
