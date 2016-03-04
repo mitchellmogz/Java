@@ -1,5 +1,6 @@
 Roman Numerals - Number 1
 Write a program that takes a number 1-10 and displays in Roman Numerals
+(switch)
 
 Time Calculator - Number 2
 Write a program that inputs a number of seconds and displays time in number of days, hours, minutes
