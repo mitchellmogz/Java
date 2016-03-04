@@ -13,6 +13,7 @@ Write a program that displays how many x amount of keys would cost plus discount
 
 Shipping Charges - Number 6
 Write a program that displays how much it would cost to ship a particular weight package
+(if else is)
 
 Fat Grams - Number 7
 Write a program that displays how many grams you cunsumed were calories from fat
