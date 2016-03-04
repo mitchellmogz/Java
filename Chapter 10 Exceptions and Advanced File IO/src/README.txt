@@ -6,6 +6,7 @@ Modify Retail Item class and do not except a negative number
 
 Payroll - Number 5
 Modify Payroll class and do not except empty String and/or negative numbers
+(String.equals(""))
 
 Exception and BankAccount - Demos
 (handling exceptions) (throwing exceptions)
