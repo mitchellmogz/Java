@@ -1,5 +1,5 @@
 Sum of Numbers - Number 1
-Write a program that loops numbers 1 to input number
+Write a program that loops numbers 1 to input number (while loop)
 
 Distance Traveled - Number 2
 Input hours and distance traveled using input validation and create a text file
