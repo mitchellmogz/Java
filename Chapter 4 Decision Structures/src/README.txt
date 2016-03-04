@@ -20,6 +20,7 @@ Write a program that displays how many grams you cunsumed were calories from fat
 
 Running the Race - Number 8
 Write a class that stores three runners names and their times and sort them first to third
+(DecimalFormat)
 
 Mobile Service Provider - Number 11
 Design a class that showed three packages and displayed their prices
