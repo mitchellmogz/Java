@@ -9,3 +9,4 @@ TramLeader inherits  Employee amd also holes an hourly wage
 
 Essay Class - Number 4
 Essay inherits GradedActivity and outputs a score for the essay
+(extends)
