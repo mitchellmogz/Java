@@ -16,7 +16,7 @@ Write a class that will predict the size of a population of organisms after x am
 
 Average Rainfall - Number 7
 Use nested loops to collect input for x amount of years
-(for loop)
+(for loop) (running total)
 
 The Greatest and Least of These - Number 8
 Loop a number of integers and display largest number and smallest number
