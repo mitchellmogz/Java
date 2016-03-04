@@ -3,7 +3,7 @@ Write a program that loops numbers 1 to input number (while loop)
 
 Distance Traveled - Number 2
 Input hours and distance traveled using input validation and create a text file
-(do while)
+(do while) (sentinel value)
 
 Pennies for Pay - Number 4
 Enter a number of days you work and every day added your intake of pennies doubles
