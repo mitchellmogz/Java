@@ -16,6 +16,7 @@ Write a program that displays how much it would cost to ship a particular weight
 
 Fat Grams - Number 7
 Write a program that displays how many grams you cunsumed were calories from fat
+(if else)
 
 Running the Race - Number 8
 Write a class that stores three runners names and their times and sort them first to third
