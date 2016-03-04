@@ -9,6 +9,7 @@ Create a program that finds the area of room and caluates how much the carpet wi
 
 Land Trackt - Number 4
 Find the size of two tracks and using equals and toString methods, find to see if they are equal
+(equals)
 
 Employee Class - Number 6
 Add a constuctor that excepts name, ID, department, and position, add a constructor with the same fields
