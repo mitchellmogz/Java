@@ -14,6 +14,9 @@ Write a program that has two methods array and number n, and enter a number and 
 Driver's License Exam - Number 6
 Enter a, b, c, or d and calculate if you passed and display totalCorrect, totalIncorect, and questionsMissed
 
+Array Demo - Number 6
+(Sequentail Search)
+
 Array Demo - Number 7
 (Selection Sort)
 
