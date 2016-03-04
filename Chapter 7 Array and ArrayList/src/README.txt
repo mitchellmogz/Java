@@ -1,5 +1,6 @@
 Rainfall Class Number 1
 Create a program that collects rainfall in an array and calculates total, average, most and least rainfall
+(array)
 
 Payroll Class - Number 2
 Write a program that collects ID, hours, payRate, and wages in an array
